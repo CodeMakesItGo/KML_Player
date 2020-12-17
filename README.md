@@ -25,6 +25,6 @@ You can run this application from Visual Studio 2017 or greater. Or you can try 
 
 From this point you should be able to see 1Hz update rates in Google Earth and the path that the vehcile has traveled. 
 
-If you just want to see the final KML file without the 1Hz up, look at the following files:
+If you just want to see the final KML file without the 1Hz update, look at the following files:
 KML_Player/KML_Player/bin/Debug/KML/Quad_Path.kml
 KML_Player/KML_Player/bin/Debug/KML/Quad_Position.kml
