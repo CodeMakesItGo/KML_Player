@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+   
+    <Style id="quad_image">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+
+     <Placemark>
+		<name>Test</name>
+		<description>4464</description>
+      <altitudeMode>absolute</altitudeMode>
+		<LookAt>
+			<longitude>-76.29865</longitude>
+			<latitude>37.01595</latitude>
+			<altitude>19.2800006866455</altitude>
+			<heading>7.55000019073486</heading>
+			<tilt>70.0</tilt>
+			<range>20.0</range>
+         <altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#quad_image</styleUrl>
+		<Point>
+         <altitudeMode>absolute</altitudeMode>
+			<coordinates>-76.29865,37.01595,19.2800006866455</coordinates>
+		</Point>
+	</Placemark>
+
+  </Document>
+</kml>
