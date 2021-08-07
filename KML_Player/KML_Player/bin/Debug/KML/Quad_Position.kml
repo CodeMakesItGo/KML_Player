@@ -15,13 +15,13 @@
 
      <Placemark>
 		<name>Test</name>
-		<description>4464</description>
+		<description>60</description>
       <altitudeMode>absolute</altitudeMode>
 		<LookAt>
-			<longitude>-76.29865</longitude>
-			<latitude>37.01595</latitude>
-			<altitude>19.2800006866455</altitude>
-			<heading>7.55000019073486</heading>
+			<longitude>-76.299255</longitude>
+			<latitude>37.01519</latitude>
+			<altitude>0.800000011920929</altitude>
+			<heading>-0.879999995231628</heading>
 			<tilt>70.0</tilt>
 			<range>20.0</range>
          <altitudeMode>absolute</altitudeMode>
@@ -29,7 +29,7 @@
 		<styleUrl>#quad_image</styleUrl>
 		<Point>
          <altitudeMode>absolute</altitudeMode>
-			<coordinates>-76.29865,37.01595,19.2800006866455</coordinates>
+			<coordinates>-76.299255,37.01519,0.800000011920929</coordinates>
 		</Point>
 	</Placemark>
 
